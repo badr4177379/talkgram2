@@ -1,4 +1,4 @@
-# messageme_app
+# Talkgram 2_app
 
 A new Flutter project.
 
